@@ -10,7 +10,7 @@ towards the template repository.
 
 ## Categories
 
-- [salads](salads)
+- [contains veggies and fruits, salads](salads)
 - [soups](soups)
 - [pasta](pasta)
 - [mains](mains)
