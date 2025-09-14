@@ -16,4 +16,4 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
-- [leftovers](sides) #this is added by me Amal 
+- [leftovers](Sides) #this is added by me Amal 
